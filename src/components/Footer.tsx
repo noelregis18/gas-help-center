@@ -103,14 +103,14 @@ const Footer = () => {
               <li className="flex">
                 <MapPin className="h-5 w-5 text-primary mr-3 flex-shrink-0" />
                 <span className="text-gray-600 dark:text-gray-300">
-                  123 Gas Company Road<br />
-                  Cityville, State 12345
+                  Asansol, West Bengal<br />
+                  India
                 </span>
               </li>
               <li className="flex">
                 <Phone className="h-5 w-5 text-primary mr-3 flex-shrink-0" />
-                <a href="tel:+1-888-555-1234" className="text-gray-600 hover:text-primary dark:text-gray-300 dark:hover:text-primary transition-colors">
-                  (888) 555-1234
+                <a href="tel:+917319546900" className="text-gray-600 hover:text-primary dark:text-gray-300 dark:hover:text-primary transition-colors">
+                  7319546900
                 </a>
               </li>
               <li className="flex">
